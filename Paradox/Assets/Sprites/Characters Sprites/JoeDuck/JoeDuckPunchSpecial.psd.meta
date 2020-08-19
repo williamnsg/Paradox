@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: fff95ce030bc3ff44893140599be6350
+timeCreated: 1491332986
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JoeDuckSocandoCombo_0
+    21300002: JoeDuckSocandoCombo_1
+    21300004: JoeDuckSocandoCombo_2
+    21300006: JoeDuckSocandoCombo_3
+    21300008: JoeDuckSocandoCombo_4
+    21300010: JoeDuckSocandoCombo_5
+    21300012: JoeDuckSocandoCombo_6
+    21300014: JoeDuckSocandoCombo_7
+    21300016: JoeDuckSocandoCombo_8
+    21300018: JoeDuckSocandoCombo_9
+    21300020: JoeDuckSocandoCombo_10
+    21300022: JoeDuckSocandoCombo_11
+    21300024: JoeDuckSocandoCombo_12
+    21300026: JoeDuckSocandoCombo_13
+    21300028: JoeDuckSocandoCombo_14
+    21300030: JoeDuckSocandoCombo_15
+    21300032: JoeDuckSocandoCombo_16
+    21300034: JoeDuckSocandoCombo_17
+    21300036: JoeDuckSocandoCombo_18
+    21300038: JoeDuckSocandoCombo_19
+    21300040: JoeDuckSocandoCombo_20
+    21300042: JoeDuckSocandoCombo_21
+    21300044: JoeDuckSocandoCombo_22
+    21300046: JoeDuckSocandoCombo_23
+    21300048: JoeDuckSocandoCombo_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 4
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 4
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_13
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 5
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 5
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_15
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 4
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_16
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 5
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_17
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 4
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 5
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_19
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 4
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_20
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 4
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_22
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 14
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_23
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 5
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JoeDuckSocandoCombo_24
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 5
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
